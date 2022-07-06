@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShravanKumarD
 - 👀 I’m interested in finding solutions for problems occuring in real life
-- 🌱 I’m currently learning Backend development
+- 🌱 I’m currently working in Backend development
 - 📫 How to reach me shravankumardoure@gmail.com
 
 <!---
